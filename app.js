@@ -13,7 +13,7 @@ app.get('/hello', (req, res) => {
   
   // Send it back to the browser
   res.send(`
-    <h1>Hello, World! Welcome to iQuant YouTube Channel.</h1>
+    <h1>Hello, World! Welcome to Anubhav's YouTube Channel.</h1>
     <p><b>Request served by Pod is:</b> <span style="color:blue">${podName}</span></p>
   `);
 });
