@@ -6,7 +6,7 @@ This repository demonstrates a GitOps workflow using Jenkins Container and ArgoC
 
 ### Project Overview
 
-Jenkins: Runs as a container outside the Minikube cluster to handle CI/CD taskssss.
+Jenkins: Runs as a container outside the Minikube cluster to handle CI/CD taskssssss.
 
 Minikube: Serves as the Kubernetes cluster, with Docker as the driver.
 
